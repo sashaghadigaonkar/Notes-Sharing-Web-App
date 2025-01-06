@@ -1,4 +1,6 @@
-# demo images
+A platform that lets users share, organize, and collaborate on information effortlessly!
+
+# Implementation :
 ![1](https://github.com/user-attachments/assets/92e14a62-a8f4-40b3-b14d-14786d6b517d)
 ![2](https://github.com/user-attachments/assets/19b118d3-225c-441a-9a12-90c135d9a6dd)
 ![3](https://github.com/user-attachments/assets/8a33b05e-ad44-4363-b9e4-f84095159389)
